@@ -4,4 +4,7 @@ print(" S3 ")
 print(" Teknologi Rekayasa Otomasi")
 print("aslamualaikum wr.wb")
 print("hallo")
-print("SwaaaaTTTT")
+print("Nama : MOCHAMAD AINNUR WACHID")
+print("NIM : 33132501005")
+print("peran : Mahasiswa")
+ 
